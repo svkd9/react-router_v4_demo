@@ -1,5 +1,5 @@
 import React from 'react'
-import { history } from './App.js'
+import { history } from './App'
 
 const App = (props) => {
 
